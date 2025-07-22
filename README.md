@@ -2,6 +2,7 @@
 I'm Liliana and I work on LLMs
 
 👩‍🎓 Ukrainian Catholic University BS-2025
+
 👩‍💻 University of Waterloo - Research Internship Program
 
 ## 📬 Let’s connect
