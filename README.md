@@ -1,12 +1,9 @@
 ## Hi there 👋
+
 I'm Liliana and I work on LLMs
 
-👩‍🎓 Ukrainian Catholic University BS-2025
+Ukrainian Catholic University BS-2025
 
-👩‍💻 University of Waterloo - Research Internship Program
+University of Waterloo - MMath (Computer Science)
 
-## 📬 Let’s connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/liliana-hotsko-2312aa1b1/)
-- 🧠 [HuggingFace](https://huggingface.co/nanigock)
-- ✉️ nanigock@gmail.com
+[LinkedIn](https://www.linkedin.com/in/liliana-hotsko-2312aa1b1/)
